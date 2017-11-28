@@ -1,4 +1,6 @@
-# Library-with--Source **Note:this project deprecated**
+# Library-with--Source 
+
+**Note:this project has been deprecated for the population for as and aar**
 
 ### WHY
 1. 很多第三方开源组件没有Eclipse可用的工程。这个是趋势，但是一下子没了不太友好。每个人都去修改一次，这不是浪费大家的生命吗？
